@@ -1,0 +1,25 @@
+{
+  "messages": [
+    {
+      "messageId": "1",
+      "userId": "1",
+      "senderName": "Moderator",
+      "messageText": "Welcome to the chat room 1",
+      "createdAt": "2021-01-14"
+    },
+    {
+      "messageId": "A0OO1xMp",
+      "createdAt": "2021-08-03T01:41:05.195Z",
+      "userId": "AQmFw6Ni",
+      "messageText": "Hello!",
+      "senderName": "Anton"
+    },
+    {
+      "messageId": "xpualEL_",
+      "createdAt": "2021-08-03T01:41:10.070Z",
+      "userId": "MgZz5_G6",
+      "messageText": "Hi!",
+      "senderName": "Vladislav"
+    }
+  ]
+}

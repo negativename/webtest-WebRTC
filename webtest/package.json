@@ -1,0 +1,13 @@
+{
+  "name": "webtest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "concurrently": "^6.2.0"
+  },
+  "scripts": {
+    "server": "cd ./server/ && npm run dev",
+    "client": "cd ./client/ && npm start",
+    "start": "concurrently \"npm:server\" \"npm:client\""
+  }
+}
